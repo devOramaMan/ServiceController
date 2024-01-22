@@ -1,0 +1,3 @@
+pyinstaller
+paho-mqtt==1.1
+pyside6

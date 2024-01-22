@@ -1,0 +1,6 @@
+build/*
+assets/*
+vcvars.tmp
+nul
+Application.spec
+.vs/*
